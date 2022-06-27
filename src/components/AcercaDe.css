@@ -1,0 +1,73 @@
+.emergente {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 950px;
+  background-color: rgba(43, 43, 43, 0.9);
+  box-shadow: 0 0 24px 10px rgb(0, 0, 0, 0.3);
+  position: absolute;
+  border: 0.1px solid rgb(69, 69, 69);
+  pointer-events: auto;
+  z-index: 1;
+  
+} 
+
+.tittle {
+  left: 30px;
+  top: 70px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: inherit;
+  color: #fff;
+  font-weight: bold;
+  font-size: 40px;
+  position: auto;
+  margin-top: 100px;
+}
+
+.sub-tittle {
+  left: 30px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: inherit;
+  color: #fff;
+  font-weight: Bold;
+  font-size: 30px;
+  position: auto;
+}
+
+.text {
+  left: 30px;
+  top: 130px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: inherit;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+  position: auto;
+}
+
+.email-account {
+  left: 30px;
+  top: 70px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: inherit;
+  color: #fff;
+  font-weight: lighter;
+  font-size: 15px;
+  position: auto;
+}
+
+.container {
+  margin-top: 170px;
+  margin-bottom: 170px;
+  margin-left: 30px;
+}

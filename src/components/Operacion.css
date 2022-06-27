@@ -1,0 +1,35 @@
+.operaciones{
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1vw;
+    background-color: rgba(43, 43, 43, 0.2);
+    color: white;
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    flex: 1;
+    width: 100%;
+    word-break:break-all;
+    overflow: auto;
+    position: inherit;
+  }
+  
+  .resultados{
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 2vw;
+    background-color: rgba(43, 43, 43, 0.2);
+    color: white;
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    flex: 1;
+    width: 100%;
+    word-break:break-all;
+    overflow: auto;
+    position: inherit;
+  }

@@ -1,0 +1,20 @@
+.pantalla{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: none;
+    font-size: 1.3rem;
+    color: #fff;
+    cursor: pointer;
+    user-select : none;
+    position: absolute;
+    border: none;
+    z-index: 1;
+}
+
+.pantalla:hover{
+    background-color:  #1f1e1e !important;
+}
+
